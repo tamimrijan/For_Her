@@ -12,7 +12,6 @@ This Python program prints the song title **"Blue - Yung Kai"** and displays a h
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Run the `heart_display.py` file in your Python environment.
+2. Run the `for_her.py` file in your Python environment.
    ```bash
-   python heart_display.py
-
+   python for_her.py
